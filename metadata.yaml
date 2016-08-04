@@ -1,0 +1,26 @@
+_repo: Uncle-Josh-s-Punkin-Centre-Stories_970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stewart, Cal
+    alias: Stewart, Calvin Edward
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '494'
+    url: http://www.gutenberg.org/2009/agents/494
+description: ''
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+- GITenberg
+title: Uncle Josh's Punkin Centre Stories
+url: http://www.gutenberg.org/ebooks/970
